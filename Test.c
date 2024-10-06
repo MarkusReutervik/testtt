@@ -2,14 +2,14 @@
 #include <string.h>
 
 #define MAX_STUDENTS 100 // Define a maximum limit for students
-
+hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 typedef struct Postadress
 {
     char streetAdress[40];
     int zipCode;
     char region[30];
 } postadress;
-
+hhhh
 typedef struct Student
 {
     int regNumber;
